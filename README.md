@@ -1,0 +1,1 @@
+# This is my another repository on GitHub where you can easily see my code of clone website. In this I've made a Amazon website clone by using HTML5,CSS, It was really good experience and challenging for me because It is not easy to so exact copy by using your skillset, But Allhamdolillah I did it. The purpose of making this is to refine my frontend skills.
